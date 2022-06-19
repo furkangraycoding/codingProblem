@@ -1,6 +1,6 @@
 1- Matris yaratıldı
 
-2- Rastgele x ve y koordinatları belirlendi
+2- Rastgele başlangıç noktası için x ve y koordinatları belirlendi
 
 3- Koordinatlara göre senaryolar belirlendi
 
